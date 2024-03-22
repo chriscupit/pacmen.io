@@ -1,1 +1,1 @@
-# pacmen.io
+The pacmen factory project allows the user to add pacmen to the screen by clicking the add button.  Once the start button is clicked, the pacmen will move around the screen and bounce off the edges using edge detection.  In the future I would like to have the pacmen flip the way they face based on the direction they are moving.  I would also like to add some background color.  
